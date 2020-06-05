@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10978d2a-542b-4557-82af-87deabf1b603" name="Default Changelist" comment="" />
+    <list default="true" id="10978d2a-542b-4557-82af-87deabf1b603" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Restuarant/.idea/Resturant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restuarant Website/.idea/Restuarant Website.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/templates/Aboutus/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus/templates/Aboutus/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/Post/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/Post/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/Post/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/Post/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact/templates/contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/templates/contact/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/templates/Meals/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/meals/templates/Meals/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/templates/Meals/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/meals/templates/Meals/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation/templates/Reservation/reservation.html" beforeDir="false" afterPath="$PROJECT_DIR$/reservation/templates/Reservation/reservation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +44,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1cYG42nuQCi5vf46o1V6DDRcEYP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,6 +57,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
@@ -57,6 +77,8 @@
       <workItem from="1590803493199" duration="58145000" />
       <workItem from="1591071839418" duration="11496000" />
       <workItem from="1591105233302" duration="81000" />
+      <workItem from="1591259047452" duration="1174000" />
+      <workItem from="1591320569626" duration="4509000" />
     </task>
     <servers />
   </component>
